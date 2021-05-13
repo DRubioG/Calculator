@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../ip_repo/myip_1.0/hdl/reloj.vhd" \
+"../../../../../../../ip_repo/myip_1.0/hdl/sim/reloj_tb.vhd" \
+
+# Do not sort compile order
+nosort

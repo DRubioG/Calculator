@@ -1,0 +1,22 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto a382a2edb2914d4f95cfc2fdb26ae613 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot r382BS_tb_behav xil_defaultlib.r382BS_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.reloj [\reloj(frec=50000)\]
+Compiling architecture behavioral of entity xil_defaultlib.Bin2BCD [bin2bcd_default]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexor [multiplexor_default]
+Compiling architecture behavioral of entity xil_defaultlib.BCD23482BS [bcd23482bs_default]
+Compiling architecture behavioral of entity xil_defaultlib.y3482BS [\y3482BS(frec=50000,rst_en='1')\]
+Compiling architecture behavioral of entity xil_defaultlib.r382bs_tb
+Built simulation snapshot r382BS_tb_behav

@@ -1,0 +1,7 @@
+Running: xsim.dir/r382BS_tb_behav/xsimk.exe -simmode gui -wdb r382BS_tb_behav.wdb -simrunnum 0 -socket 55765
+Design successfully loaded
+Design Loading Memory Usage: 5796 KB (Peak: 5796 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 14368 KB (Peak: 14368 KB)
+Simulation CPU Usage: 1530 ms

@@ -1,0 +1,3 @@
+## [3482BS](3482BS)
+
+VHDL code of 3482BS
