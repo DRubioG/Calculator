@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER prueba
+	OPTION supported_peripherals = (prueba);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = prueba;
+END DRIVER
